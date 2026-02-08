@@ -1,0 +1,18 @@
+# HTML files
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+*.pkl
+*.h5
+*.pt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
