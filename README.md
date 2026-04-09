@@ -8,6 +8,13 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=flat-square)
 
 ---
+<div align="center">
+  <h3>InfluxDB + Telegraf + Grafana for Beginners – Monitoring AI Models (2026)</h3>
+  <a href="https://www.youtube.com/watch?v=ttS4Dh7Y9RU">
+    <img src="https://img.youtube.com/vi/ttS4Dh7Y9RU/maxresdefault.jpg" alt="Watch the InfluxDB Telegraf Grafana Tutorial" style="width:100%; max-width:600px;">
+  </a>
+  <p><i>Click the image to watch the full monitoring stack setup on YouTube</i></p>
+</div>
 
 ## 🎯 Why Monitor AI Models?
 
